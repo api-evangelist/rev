@@ -1,0 +1,80 @@
+{
+    "name": "Rev",
+    "description": "Online audio transcription, video captions and document translation services. For immigration, business, legal, academic and personal needs.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1846-rev.jpg",
+    "tags": [
+        "audio indexing",
+        "audio transcription",
+        "content",
+        "have api",
+        "target",
+        "transcripts"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/rev\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Rev",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1846-rev.jpg",
+            "humanURL": "http:\/\/www.rev.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/rev-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base URL",
+            "url": "http:\/\/api-sandbox.rev.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.rev.com"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/rev"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/rev"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.rev.com\/api"
+        },
+        {
+            "type": "Email",
+            "url": "support@rev.com."
+        },
+        {
+            "type": "Email",
+            "url": "support@rev.com"
+        },
+        {
+            "type": "Email",
+            "url": "servicesagreement@rev.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/rev"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.rev.com"
+        },
+        {
+            "type": "Zapier",
+            "url": "https:\/\/www.rev.com\/api\/zapier"
+        }
+    ]
+}
